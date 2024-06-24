@@ -4,5 +4,4 @@
 </p>
 <hr/>
 <h4 align="center">I am a student studying information systems development👨‍🎓
-Constantly looking for new opportunities to learn and grow in the field of technology. I am always ready to face new challenges.
 Remember Easy is never good and good is never easy.</h4>
